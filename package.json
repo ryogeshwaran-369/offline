@@ -2,7 +2,7 @@
   "name": "offline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rYogeshwaran369.github.io/offline-site",
+  "homepage": "https://ryogeshwaran-369.github.io/off",
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.1.1",
     "@tensorflow/tfjs": "^4.22.0",
@@ -25,7 +25,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
