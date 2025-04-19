@@ -1,7 +1,7 @@
 {
   "name": "offline",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://ryogeshwaran-369.github.io/off",
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.1.1",
