@@ -1,0 +1,32 @@
+[
+  {
+    "link": "https://storage.googleapis.com/video-annotation-tool-new/321fea17-1464-4405-b44c-6fad069bd202.png",
+    "title": "home page",
+    "email": "trainer1@turing.com",
+    "workflows": ["a164", "a13", "a5","r321"]
+  },
+  {
+    "link": "https://storage.googleapis.com/video-annotation-tool-new/cdc81c8e-46cb-4de5-aed2-64356ffe1535.png",
+    "title": "Dashboards page",
+    "email": "trainer2@turing.com",
+    "workflows": ["a164", "a13", "a5","a91"]
+  },
+  {
+    "link": "https://storage.googleapis.com/video-annotation-tool-new/d7ea5b26-aee7-490f-8623-b56b84bb209d-start.png",
+    "title": "New Dashboard",
+    "email": "trainer3@turing.com",
+    "workflows": ["a164", "a0", "a5","as1"]
+  },
+  {
+    "link": "https://storage.googleapis.com/video-annotation-tool-new/c7dd6a81-36c7-4fcb-8fc1-03b71928d399.png",
+    "title": "select folder",
+    "email": "trainer4@turing.com",
+    "workflows": ["a14", "ea13", "a2","a211"]
+  },
+  {
+    "link": "https://storage.googleapis.com/video-annotation-tool-new/00075483-da69-42f2-93c4-9f46c213e526.png",
+    "title": "Dashboard home page",
+    "email": "trainer4@turing.com",
+    "workflows": ["a14", "es13", "a2","a211"]
+  }
+]
